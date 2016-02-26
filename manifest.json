@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "kakera_client",
+  "description": "kakera_client",
+  "version": "1.0",
+  "browser_action": {
+    "default_icon": "icon.png"
+  },
+  "background": {
+    "scripts": ["js/jquery.js","js/background.js"]
+  }
+}
