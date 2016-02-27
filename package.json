@@ -1,0 +1,25 @@
+{
+  "name": "kakera_client",
+  "version": "1.0.0",
+  "description": "kakera_client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nasum/kakera_client.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nasum/kakera_client/issues"
+  },
+  "homepage": "https://github.com/nasum/kakera_client",
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "browserify": "^13.0.0",
+    "gulp": "^3.9.1",
+    "jquery": "^2.2.1"
+  }
+}
